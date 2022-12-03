@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T14:00:21.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="24e3wOiiU7h-TCVabqAS" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T14:50:32.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="Qi5DT-5irj8Y6QSmb32n" type="github">
   <diagram id="JODqEMpE88gugYrYGY8W" name="Trang-1">
-    <mxGraphModel dx="1043" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="680" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lxZn6DWTCoBXOgKpksJs-2" value="Quản lý nhân sự Công Ty" style="shape=umlFrame;whiteSpace=wrap;html=1;width=190;height=30;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="lxZn6DWTCoBXOgKpksJs-2" value="Quản lý nhân sự Công Ty" style="shape=umlFrame;whiteSpace=wrap;html=1;width=190;height=30;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="570" height="300" as="geometry" />
         </mxCell>
         <mxCell id="lxZn6DWTCoBXOgKpksJs-3" value="QUẢN LÝ NHÂN SỰ CÔNG TY" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;shadow=1;sketch=0;fontStyle=1;gradientColor=#ffd966;" vertex="1" parent="1">
